@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Microservices in `golang` `javascript` and `forgerock` at [anzx](https://github.com/anzx)
 - 💬 Ask me about `golang` `temporal` `gcp` `reactjs` `javascript` and `forgerock`
-- 😄 Pronouns: pruh-moh-d
+- 😄 Pronouns: He/Him
 
 <!--
 **kspramod/kspramod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
